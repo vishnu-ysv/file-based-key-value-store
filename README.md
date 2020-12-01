@@ -1,4 +1,4 @@
-# FILE BASED KEY VALUE STORE
+# file based key value store
 
 The C++ static library file was created on Ubuntu system , but the program should work fine on windows too
 
